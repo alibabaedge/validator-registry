@@ -1,5 +1,6 @@
 {
   "$schema": "../profile.schema.json",
   "name": "Citizen Cosmos",
-  "identity": "DF0280597A20ACFE"
+  "identity": "DF0280597A20ACFE",
+  "Website": "https://www.citizenweb3.com/staking"
 }
